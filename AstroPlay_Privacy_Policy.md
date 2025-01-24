@@ -21,13 +21,11 @@ AstroPlay utiliza la API de **RAWG** para obtener datos como:
 
 Estos datos se reciben directamente desde RAWG y no se almacenan ni procesan fuera de tu dispositivo.
 
-Para más información sobre cómo RAWG maneja los datos, puedes consultar su [Política de Privacidad](https://rawg.io/privacy-policy).
-
 ## Seguridad
 AstroPlay no almacena datos sensibles, pero tomamos las medidas necesarias para garantizar que la información manejada localmente en tu dispositivo esté protegida.
 
 ## Contacto
 Si tienes alguna pregunta o inquietud sobre esta política de privacidad, puedes contactarnos en:  
-[tu correo electrónico]
+
 
 Fecha de última actualización: [fecha].
